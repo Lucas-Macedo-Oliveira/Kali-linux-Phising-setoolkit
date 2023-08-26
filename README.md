@@ -1,6 +1,6 @@
 <h1>Ferramentas</h1>
-<p>Kali Linux</p>
-<p>setoolkit</p>
+<p><b>Kali Linux</b></p>
+<p><b>setoolkit</b></p>
 <h1>Configurando o Phishing no Kali Linux</h1>
 Acesso root<br>
 Inicie setoolkit, ele dará algumas opções de ataque.<br>
@@ -11,4 +11,4 @@ Método de ataque: Site Cloner, opção 2. <br>
 Obtendo o endereço da máquina: ifconfig <br>
 URL para clone: http://www.facebook.com <br>
 Resutados: <br>
-![image](https://github.com/Sakhul/Kali-linux-Phising/assets/101147886/0692d220-b4b8-4813-9ba9-09486df3bee7)
+<img src="/image.jpg" alt="resultados">
