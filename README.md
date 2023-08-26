@@ -11,4 +11,5 @@ Método de ataque: Site Cloner, opção 2. <br>
 Obtendo o endereço da máquina: ifconfig <br>
 URL para clone: http://www.facebook.com <br>
 Resutados: <br>
-<img src="/image.jpg" alt="resultados">
+
+![Alt text](./image.png "Optional title")
